@@ -2,6 +2,12 @@
 
 This repository features four modern web projects developed using HTML, CSS, and JavaScript. Each project incorporates sophisticated animations implemented with GSAP and ScrollTrigger, enhancing user experience with smooth and engaging visuals.
 
+## Screenshot
+![Screenshot 1](https://github.com/Mohit-Kucheriya/ModernWebsite/blob/e3fd4dbb1460d13f417fff5ac9a6f6bfc204d05d/Screenshot/2.png)<br/>
+![Screenshot 2](https://github.com/Mohit-Kucheriya/ModernWebsite/blob/e3fd4dbb1460d13f417fff5ac9a6f6bfc204d05d/Screenshot/1.png)<br/>
+![Screenshot 3](https://github.com/Mohit-Kucheriya/ModernWebsite/blob/e3fd4dbb1460d13f417fff5ac9a6f6bfc204d05d/Screenshot/3.png)<br/>
+
+
 ## Technologies Used
 
 ### HTML
